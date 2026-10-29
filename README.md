@@ -13,7 +13,7 @@
 **Docente:** Ing. Irina Fong  
 **Tema:** Patrón MVC — CRUD rápido con Laravel  
 **Estudiante:** Andres Dommar  
-**Fecha de ejecución:** 29 de octubre de 2026
+**Fecha de ejecución:** 22 de octubre de 2026
 
 ## Índice
 
