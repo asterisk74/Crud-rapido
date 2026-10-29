@@ -418,7 +418,6 @@ Además, pude aprender sobre la importancia de validar los datos ingresados en l
 4. Laravel. (2026). *Database: Migrations*. https://laravel.com/docs/13.x/migrations
 5. Laravel. (2026). *Eloquent ORM*. https://laravel.com/docs/13.x/eloquent
 6. Ibex. (s. f.). *Laravel CRUD Generator*. https://github.com/ibex/crud-generator
-7. Fong, I. (2026). *Acercamiento a un CRUD rápido en Laravel: Guía del laboratorio #2* [Presentación de clase]. Universidad Tecnológica de Panamá.
 
 ## 13. Información académica
 
