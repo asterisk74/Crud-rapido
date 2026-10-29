@@ -12,7 +12,7 @@
 **Asignatura:** Desarrollo Web  
 **Docente:** Ing. Irina Fong  
 **Tema:** Patrón MVC — CRUD rápido con Laravel  
-**Estudiante:** [Nombre del estudiante]  
+**Estudiante:** Andres Dommar  
 **Fecha de ejecución:** 29 de octubre de 2026
 
 ## Índice
@@ -422,15 +422,8 @@ Además, pude aprender sobre la importancia de validar los datos ingresados en l
 
 ## 13. Información académica
 
-**Este laboratorio ha sido desarrollado por un estudiante de la Universidad Tecnológica de Panamá.**
-
-- **Nombre:** [Completar]
-- **Correo académico:** [Completar, si lo requiere la entrega]
+- **Nombre:** Andres Dommar
 - **Curso:** Desarrollo Web
 - **Docente:** Ing. Irina Fong
-- **Fecha de ejecución:** 29 de octubre de 2026
-- **Fecha de entrega:** [Completar según las indicaciones de la profesora]
-
----
-
-*Proyecto académico realizado con Laravel 13, Laravel UI, Ibex CRUD Generator y MySQL en WampServer.*
+- **Fecha de ejecución:** 22 de octubre del 2026
+- **Fecha de entrega:** 23 de octubre del 2026
